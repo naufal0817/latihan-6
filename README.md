@@ -1,2 +1,2 @@
 # latihan-6
-gtw
+- a
